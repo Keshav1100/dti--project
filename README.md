@@ -1,10 +1,10 @@
-# Wallety - Budget Tracker
+# Spendify - Budget Tracker
+<!-- 
+![version](https://img.shields.io/badge/version-1.0.0-blue) ![licence](https://img.shields.io/badge/licence-MIT-blue) -->
 
-![version](https://img.shields.io/badge/version-1.0.0-blue) ![licence](https://img.shields.io/badge/licence-MIT-blue)
+Spendify is a budget tracker for personal finance and budget planning.
 
-Wallety is a budget tracker for personal finance and budget planning.
-
-![Wallety Cover](https://user-images.githubusercontent.com/32510139/167453860-a52f456b-ed6c-48b4-883a-a03a91ecc510.jpg)
+<!-- ![Wallety Cover](https://user-images.githubusercontent.com/32510139/167453860-a52f456b-ed6c-48b4-883a-a03a91ecc510.jpg) -->
 
 ## Table of Contents
 <!-- - [Screenshots](#screenshots) -->
