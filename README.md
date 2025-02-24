@@ -38,7 +38,7 @@ Clone the repo
 Install Waletty with npm
 
 ```bash
-  cd Waletty
+  cd Spendify
   npm install
 ```
     
